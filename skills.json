@@ -1,0 +1,773 @@
+{
+  "skills": [
+    {
+      "name": "dogfood",
+      "description": "Exploratory QA of web apps: find bugs, evidence, reports.",
+      "category": "qa",
+      "category_label": "QA",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/dogfood"
+    },
+    {
+      "name": "yuanbao",
+      "description": "Yuanbao (元宝) groups: @mention users, query info/members.",
+      "category": "social",
+      "category_label": "social",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/yuanbao"
+    },
+    {
+      "name": "claude-code",
+      "description": "Delegate coding to Claude Code CLI (features, PRs).",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/claude-code"
+    },
+    {
+      "name": "codex",
+      "description": "Delegate coding to OpenAI Codex CLI (features, PRs).",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/codex"
+    },
+    {
+      "name": "hermes-agent",
+      "description": "Configure, extend, or contribute to Hermes Agent.",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/hermes-agent"
+    },
+    {
+      "name": "kanban-codex-lane",
+      "description": "Hermes Kanban worker runs Codex CLI as an isolated lane.",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/kanban-codex-lane"
+    },
+    {
+      "name": "multi-agent-github-orchestration",
+      "description": "Orchestrate autonomous coding agents via GitHub Issues.",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/multi-agent-github-orchestration"
+    },
+    {
+      "name": "opencode",
+      "description": "Delegate coding to OpenCode CLI (features, PR review).",
+      "category": "agents",
+      "category_label": "Agents",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/opencode"
+    },
+    {
+      "name": "architecture-diagram",
+      "description": "Dark-themed SVG architecture/cloud/infra diagrams as HTML.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/architecture-diagram"
+    },
+    {
+      "name": "ascii-art",
+      "description": "ASCII art: pyfiglet, cowsay, boxes, image-to-ascii.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/ascii-art"
+    },
+    {
+      "name": "ascii-video",
+      "description": "Convert video/audio to colored ASCII MP4/GIF.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/ascii-video"
+    },
+    {
+      "name": "baoyu-article-illustrator",
+      "description": "Article illustrations: type × style × palette.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/baoyu-article-illustrator"
+    },
+    {
+      "name": "baoyu-comic",
+      "description": "Knowledge comics (知识漫画): educational, biography.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/baoyu-comic"
+    },
+    {
+      "name": "baoyu-infographic",
+      "description": "Infographics: 21 layouts x 21 styles.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/baoyu-infographic"
+    },
+    {
+      "name": "claude-design",
+      "description": "Design one-off HTML artifacts (landing, deck, prototype).",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/claude-design"
+    },
+    {
+      "name": "comfyui",
+      "description": "Generate images, video, audio with ComfyUI.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/comfyui"
+    },
+    {
+      "name": "design-md",
+      "description": "Author/validate/export Google's DESIGN.md token spec files.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/design-md"
+    },
+    {
+      "name": "excalidraw",
+      "description": "Hand-drawn Excalidraw JSON diagrams (arch, flow, seq).",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/excalidraw"
+    },
+    {
+      "name": "humanizer",
+      "description": "Humanize text: strip AI-isms and add real voice.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/humanizer"
+    },
+    {
+      "name": "ideation",
+      "description": "Generate project ideas via creative constraints.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/ideation"
+    },
+    {
+      "name": "manim-video",
+      "description": "Manim CE animations: 3Blue1Brown math/algo videos.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/manim-video"
+    },
+    {
+      "name": "p5js",
+      "description": "p5.js sketches: gen art, shaders, interactive, 3D.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/p5js"
+    },
+    {
+      "name": "pixel-art",
+      "description": "Pixel art w/ era palettes (NES, Game Boy, PICO-8).",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/pixel-art"
+    },
+    {
+      "name": "popular-web-designs",
+      "description": "54 real design systems as HTML/CSS.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/popular-web-designs"
+    },
+    {
+      "name": "pretext",
+      "description": "DOM-free text layout for ASCII art, typographic flow.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/pretext"
+    },
+    {
+      "name": "sketch",
+      "description": "Throwaway HTML mockups: 2-3 design variants.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/sketch"
+    },
+    {
+      "name": "songwriting-and-ai-music",
+      "description": "Songwriting craft and Suno AI music prompts.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/songwriting-and-ai-music"
+    },
+    {
+      "name": "touchdesigner-mcp",
+      "description": "Control TouchDesigner via MCP — 36 native tools.",
+      "category": "creative",
+      "category_label": "Creative",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/touchdesigner-mcp"
+    },
+    {
+      "name": "jupyter-live-kernel",
+      "description": "Iterative Python via live Jupyter kernel (hamelnb).",
+      "category": "data",
+      "category_label": "Data",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/jupyter-live-kernel"
+    },
+    {
+      "name": "cloudflare-dns-caddy-proxy",
+      "description": "DNS + Caddy reverse proxy on remote server via SSH.",
+      "category": "devops",
+      "category_label": "DevOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/cloudflare-dns-caddy-proxy"
+    },
+    {
+      "name": "kanban-orchestrator",
+      "description": "Decomposition playbook for orchestrator profile.",
+      "category": "devops",
+      "category_label": "DevOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/kanban-orchestrator"
+    },
+    {
+      "name": "kanban-worker",
+      "description": "Pitfalls and edge cases for Hermes Kanban workers.",
+      "category": "devops",
+      "category_label": "DevOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/kanban-worker"
+    },
+    {
+      "name": "russian-marketplace-profiles",
+      "description": "Manage profiles on Russian freelance platforms.",
+      "category": "devops",
+      "category_label": "DevOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/russian-marketplace-profiles"
+    },
+    {
+      "name": "webhook-subscriptions",
+      "description": "Event-driven agent runs via webhooks.",
+      "category": "devops",
+      "category_label": "DevOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/webhook-subscriptions"
+    },
+    {
+      "name": "himalaya",
+      "description": "Himalaya CLI: IMAP/SMTP email from terminal.",
+      "category": "email",
+      "category_label": "Email",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/himalaya"
+    },
+    {
+      "name": "minecraft-modpack-server",
+      "description": "Host modded Minecraft servers.",
+      "category": "gaming",
+      "category_label": "Gaming",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/minecraft-modpack-server"
+    },
+    {
+      "name": "pokemon-player",
+      "description": "Play Pokemon via headless emulator + RAM reads.",
+      "category": "gaming",
+      "category_label": "Gaming",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/pokemon-player"
+    },
+    {
+      "name": "codebase-inspection",
+      "description": "Inspect codebases with pygount.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/codebase-inspection"
+    },
+    {
+      "name": "github-auth",
+      "description": "GitHub auth setup: HTTPS tokens, SSH keys, gh CLI.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-auth"
+    },
+    {
+      "name": "github-code-review",
+      "description": "Review PRs: diffs, inline comments.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-code-review"
+    },
+    {
+      "name": "github-issues",
+      "description": "Create, triage, label, assign GitHub issues.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-issues"
+    },
+    {
+      "name": "github-pr-workflow",
+      "description": "GitHub PR lifecycle: branch, commit, open, CI, merge.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-pr-workflow"
+    },
+    {
+      "name": "github-repo-management",
+      "description": "Clone/create/fork repos; manage remotes.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-repo-management"
+    },
+    {
+      "name": "github-research",
+      "description": "Discover trending repos, evaluate open-source.",
+      "category": "github",
+      "category_label": "GitHub",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/github-research"
+    },
+    {
+      "name": "native-mcp",
+      "description": "MCP client: connect servers, register tools (stdio/HTTP).",
+      "category": "mcp",
+      "category_label": "MCP",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/native-mcp"
+    },
+    {
+      "name": "gif-search",
+      "description": "Search/download GIFs from Tenor via curl + jq.",
+      "category": "media",
+      "category_label": "Media",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/gif-search"
+    },
+    {
+      "name": "heartmula",
+      "description": "HeartMuLa: Suno-like song generation from lyrics + tags.",
+      "category": "media",
+      "category_label": "Media",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/heartmula"
+    },
+    {
+      "name": "songsee",
+      "description": "Audio spectrograms/features (mel, chroma, MFCC) via CLI.",
+      "category": "media",
+      "category_label": "Media",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/songsee"
+    },
+    {
+      "name": "spotify",
+      "description": "Spotify: play, search, queue, manage playlists.",
+      "category": "media",
+      "category_label": "Media",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/spotify"
+    },
+    {
+      "name": "youtube-content",
+      "description": "YouTube transcripts to summaries, threads, blogs.",
+      "category": "media",
+      "category_label": "Media",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/youtube-content"
+    },
+    {
+      "name": "audiocraft-audio-generation",
+      "description": "MusicGen text-to-music, AudioGen text-to-sound.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/audiocraft-audio-generation"
+    },
+    {
+      "name": "axolotl",
+      "description": "YAML LLM fine-tuning (LoRA, DPO, GRPO).",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/axolotl"
+    },
+    {
+      "name": "dspy",
+      "description": "Declarative LM programs, auto-optimize prompts, RAG.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/dspy"
+    },
+    {
+      "name": "evaluating-llms-harness",
+      "description": "Benchmark LLMs (MMLU, GSM8K, etc.).",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/evaluating-llms-harness"
+    },
+    {
+      "name": "fine-tuning-with-trl",
+      "description": "SFT, DPO, PPO, GRPO, reward modeling.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/fine-tuning-with-trl"
+    },
+    {
+      "name": "huggingface-hub",
+      "description": "HuggingFace hf CLI: search/download/upload models.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/huggingface-hub"
+    },
+    {
+      "name": "llama-cpp",
+      "description": "Local GGUF inference + HF Hub model discovery.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/llama-cpp"
+    },
+    {
+      "name": "obliteratus",
+      "description": "Abliterate LLM refusals (diff-in-means).",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/obliteratus"
+    },
+    {
+      "name": "outlines",
+      "description": "Structured JSON/regex/Pydantic LLM generation.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/outlines"
+    },
+    {
+      "name": "segment-anything-model",
+      "description": "Zero-shot image segmentation.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/segment-anything-model"
+    },
+    {
+      "name": "serving-llms-vllm",
+      "description": "High-throughput LLM serving, OpenAI API.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/serving-llms-vllm"
+    },
+    {
+      "name": "unsloth",
+      "description": "2-5x faster LoRA/QLoRA fine-tuning.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/unsloth"
+    },
+    {
+      "name": "weights-and-biases",
+      "description": "W&B: log ML experiments, sweeps, model registry.",
+      "category": "mlops",
+      "category_label": "MLOps",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/weights-and-biases"
+    },
+    {
+      "name": "obsidian",
+      "description": "Read, search, create notes in Obsidian vault via WebDAV.",
+      "category": "note",
+      "category_label": "Note-taking",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/obsidian"
+    },
+    {
+      "name": "airtable",
+      "description": "Airtable REST API via curl. CRUD, filters, upserts.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/airtable"
+    },
+    {
+      "name": "google-workspace",
+      "description": "Gmail, Calendar, Drive, Docs, Sheets via gws/Python.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/google-workspace"
+    },
+    {
+      "name": "linear",
+      "description": "Linear: manage issues, projects, teams via GraphQL.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/linear"
+    },
+    {
+      "name": "maps",
+      "description": "Geocode, POIs, routes, timezones via OpenStreetMap.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/maps"
+    },
+    {
+      "name": "nano-pdf",
+      "description": "Edit PDF text/typos/titles via nano-pdf CLI.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/nano-pdf"
+    },
+    {
+      "name": "notion",
+      "description": "Notion API + ntn CLI: pages, databases, markdown.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/notion"
+    },
+    {
+      "name": "ocr-and-documents",
+      "description": "Extract text from PDFs/scans (pymupdf, marker-pdf).",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/ocr-and-documents"
+    },
+    {
+      "name": "powerpoint",
+      "description": "Create, read, edit .pptx decks, slides, notes.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/powerpoint"
+    },
+    {
+      "name": "teams-meeting-pipeline",
+      "description": "Operate Teams meeting summary pipeline.",
+      "category": "productivity",
+      "category_label": "Productivity",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/teams-meeting-pipeline"
+    },
+    {
+      "name": "godmode",
+      "description": "Jailbreak LLMs: Parseltongue, GODMODE, ULTRAPLINIAN.",
+      "category": "redteam",
+      "category_label": "Red Teaming",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/godmode"
+    },
+    {
+      "name": "arxiv",
+      "description": "Search arXiv papers by keyword, author, category.",
+      "category": "research",
+      "category_label": "Research",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/arxiv"
+    },
+    {
+      "name": "blogwatcher",
+      "description": "Monitor blogs and RSS/Atom feeds.",
+      "category": "research",
+      "category_label": "Research",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/blogwatcher"
+    },
+    {
+      "name": "llm-wiki",
+      "description": "Karpathy's LLM Wiki: build/query interlinked KB.",
+      "category": "research",
+      "category_label": "Research",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/llm-wiki"
+    },
+    {
+      "name": "polymarket",
+      "description": "Query Polymarket: markets, prices, orderbooks.",
+      "category": "research",
+      "category_label": "Research",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/polymarket"
+    },
+    {
+      "name": "openhue",
+      "description": "Control Philips Hue lights, scenes, rooms.",
+      "category": "smarthome",
+      "category_label": "Smart Home",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/openhue"
+    },
+    {
+      "name": "xurl",
+      "description": "X/Twitter via xurl CLI: post, search, DM, media.",
+      "category": "social",
+      "category_label": "Social",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/xurl"
+    },
+    {
+      "name": "ai-generation-mode-development",
+      "description": "Implement AI generation modes in ai-photostudio.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/ai-generation-mode-development"
+    },
+    {
+      "name": "bun-docker-deploy",
+      "description": "Deploy Bun monorepo in Docker with multi-stage builds.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/bun-docker-deploy"
+    },
+    {
+      "name": "debugging-hermes-tui-commands",
+      "description": "Debug Hermes TUI slash commands.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/debugging-hermes-tui-commands"
+    },
+    {
+      "name": "hermes-agent-skill-authoring",
+      "description": "Author in-repo SKILL.md: frontmatter, validator.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/hermes-agent-skill-authoring"
+    },
+    {
+      "name": "hermes-s6-container-supervision",
+      "description": "Modify s6-overlay supervision in Docker.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/hermes-s6-container-supervision"
+    },
+    {
+      "name": "node-inspect-debugger",
+      "description": "Debug Node.js via --inspect + CDP CLI.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/node-inspect-debugger"
+    },
+    {
+      "name": "plan",
+      "description": "Plan mode: write markdown plan, no execution.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/plan"
+    },
+    {
+      "name": "python-debugpy",
+      "description": "Debug Python: pdb REPL + debugpy remote (DAP).",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/python-debugpy"
+    },
+    {
+      "name": "requesting-code-review",
+      "description": "Pre-commit review: security scan, quality gates.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/requesting-code-review"
+    },
+    {
+      "name": "spike",
+      "description": "Throwaway experiments to validate ideas.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/spike"
+    },
+    {
+      "name": "subagent-driven-development",
+      "description": "Execute plans via delegate_task subagents.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/subagent-driven-development"
+    },
+    {
+      "name": "systematic-debugging",
+      "description": "4-phase root cause debugging.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/systematic-debugging"
+    },
+    {
+      "name": "technical-specifications",
+      "description": "Write product-level technical specifications (ТЗ).",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/technical-specifications"
+    },
+    {
+      "name": "test-driven-development",
+      "description": "TDD: RED-GREEN-REFACTOR.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/test-driven-development"
+    },
+    {
+      "name": "web-design-recovery",
+      "description": "Extract live/cached website visual design.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/web-design-recovery"
+    },
+    {
+      "name": "writing-plans",
+      "description": "Write implementation plans.",
+      "category": "dev",
+      "category_label": "Dev",
+      "author": "geniok",
+      "repo": "https://github.com/geniok1980/Skills/tree/main/writing-plans"
+    }
+  ],
+  "updated": "2026-05-28"
+}
